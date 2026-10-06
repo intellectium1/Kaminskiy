@@ -1,0 +1,8 @@
+{
+  "name": "ЖК Каминский — Квиз-лид-магнит",
+  "description": "Интерактивный квиз «А что для вас роскошь?» для покупателей лотов в деловом центре Каминский с аналитикой и встроенной CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
